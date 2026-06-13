@@ -35,5 +35,6 @@ Ruth García Carrasco (@GcRuth)
 Acceso al recurso
 
 El recurso puede visualizarse directamente mediante GitHub Pages:
+https://ruthcepal2.github.io/Un-refugio-para-perros/
 
 
